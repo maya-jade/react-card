@@ -1,6 +1,6 @@
 import React from 'react'
-import mail from './mail.svg'
-import linkedIn from './linkedin.svg'
+import mail from 'mail.svg'
+import linkedIn from 'linkedin.svg'
 
 function RectangleTwo() {
     return (

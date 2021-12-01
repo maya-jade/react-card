@@ -1,5 +1,5 @@
 import React from 'react'
-import selfie from '../src/selfie.jpg'
+import selfie from 'selfie.jpg'
 
 function RectangleOne() {
     return (
