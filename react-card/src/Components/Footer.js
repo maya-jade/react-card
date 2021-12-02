@@ -1,9 +1,9 @@
 import React from 'react'
-import css3 from 'css3.svg'
-import html5 from 'html5.svg'
-import wordpress from 'wordpress.svg'
-import reactapp from 'react.svg'
-import javascript from 'javascript.svg'
+import css3 from '../Img/css3.svg'
+import html5 from '../Img/html5.svg'
+import wordpress from '../Img/wordpress.svg'
+import reactapp from '../Img/react.svg'
+import javascript from '../Img/javascript.svg'
 
 function Footer() {
     return (

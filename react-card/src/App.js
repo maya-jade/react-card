@@ -1,7 +1,7 @@
 import React from "react"
-import RectangleOne from "RectangleOne"
-import RectangleTwo from "RectangleTwo"
-import Footer from "Footer"
+import RectangleOne from "../src/Components/RectangleOne"
+import RectangleTwo from "../src/Components/RectangleTwo"
+import Footer from "../src/Components/Footer"
 
 function App() {
     return (
