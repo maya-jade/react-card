@@ -1,14 +1,10 @@
 import React from "react"
-import RectangleOne from "../src/Components/RectangleOne"
-import RectangleTwo from "../src/Components/RectangleTwo"
-import Footer from "../src/Components/Footer"
+import Card from "../src/Components/Card"
 
 function App() {
     return (
         <div id="container">
-         <RectangleOne />
-         <RectangleTwo />
-         <Footer />
+         <Card />
         </div>
     )
 }
